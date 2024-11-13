@@ -27,6 +27,8 @@ Conversões diponíveis:
 
 Também há a opção '**Encerrar**', caso não queira continuar convertendo.
 
+![gif-sample](https://github.com/user-attachments/assets/ac01e9af-5218-42bc-a3cb-03a9dcfa25d1)
+
 ###  API
 Para a realização do projeto, foi usada a versão gratuita da API oferecida pela [**Exchange Rate API**](https://www.exchangerate-api.com/), 
 por questão de segurança, a chave não está disponível no código!
